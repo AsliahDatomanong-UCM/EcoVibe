@@ -1,2 +1,0 @@
-# EcoVibe
-OOPROG DELIVERABLES
